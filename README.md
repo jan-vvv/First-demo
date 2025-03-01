@@ -1,4 +1,5 @@
 # First-demo
 This is my Git repo
 <br>
-Author - Janhavi
+Author - Janhavi chidamber
+
